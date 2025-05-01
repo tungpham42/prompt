@@ -1,0 +1,23 @@
+const tones = [
+  "humorous",
+  "dramatic",
+  "poetic",
+  "mysterious",
+  "sarcastic",
+  "inspirational",
+  "dark",
+  "uplifting",
+  "melancholic",
+  "whimsical",
+  "romantic",
+  "philosophical",
+  "epic",
+  "nostalgic",
+  "satirical",
+  "cynical",
+  "childlike",
+  "introspective",
+  "surreal",
+  "academic",
+];
+export default tones;
